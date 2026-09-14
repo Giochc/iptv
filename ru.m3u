@@ -7,36 +7,52 @@ https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="matchtv.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч! (3)
 http://stream.mcquack.net/169/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_k.png", Россия К (3)
+
+#EXTINF:-1 tvg-id="russiak.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_k.png", Россия К (3)
 http://stream.mcquack.net/229/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_24.png", Россия 24 (3)
+
+#EXTINF:-1 tvg-id="rossiya24.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_24.png", Россия 24 (3)
 http://77.232.131.211/Rossiya24/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР (3)
+
+#EXTINF:-1 tvg-id="otr.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР (3)
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр (2)
+
+#EXTINF:-1 tvg-id="tvc.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр (2)
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр (3)
+
+#EXTINF:-1 tvg-id="tvc.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр (3)
 https://stream8.cinerama.uz/1025/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас (2)
+
+#EXTINF:-1 tvg-id="spas.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас (2)
 https://bonusspas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС (2)
+
+#EXTINF:-1 tvg-id="sts.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС (2)
 http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (2)
+
+#EXTINF:-1 tvg-id="domashniy.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (2)
 http://stream.mcquack.net/227/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3 (2)
+
+#EXTINF:-1 tvg-id="tv3.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3 (2)
 http://stream.mcquack.net/136/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница (2)
+
+#EXTINF:-1 tvg-id="pyatnitsa.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница (2)
 http://stream.mcquack.net/181/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда (2)
+
+#EXTINF:-1 tvg-id="zvezda.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда (2)
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир (3)
+
+#EXTINF:-1 tvg-id="mir.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир (3)
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир (4)
+
+#EXTINF:-1 tvg-id="mir.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир (4)
 https://stream8.cinerama.uz/1218/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ (2)
+
+#EXTINF:-1 tvg-id="tnt.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ (2)
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ (2)
+
+#EXTINF:-1 tvg-id="muztv.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ (2)
 https://stream8.cinerama.uz/1200/index.m3u8
+
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/karusel.png", Карусель International
 https://fs.uplink.kz/karusel/index.m3u8?token=onlinetv
 
