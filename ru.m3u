@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1tv.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый (3)
+#EXTINF:-1 tvg-id="1tv.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 
-#EXTINF:-1 tvg-id="russia1.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (3)
+#EXTINF:-1 tvg-id="russia1.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="matchtv.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч! (3)
+#EXTINF:-1 tvg-id="matchtv.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч!
 http://stream.mcquack.net/169/index.m3u8
 
-#EXTINF:-1 tvg-id="russiak.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_k.png", Россия К (3)
+#EXTINF:-1 tvg-id="russiak.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_k.png", Россия 2
 http://stream.mcquack.net/229/index.m3u8
 
-#EXTINF:-1 tvg-id="rossiya24.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_24.png", Россия 24 (3)
+#EXTINF:-1 tvg-id="rossiya24.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_24.png", Россия 3
 http://77.232.131.211/Rossiya24/index.m3u8
 
-#EXTINF:-1 tvg-id="otr.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР (3)
+#EXTINF:-1 tvg-id="otr.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР 
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 
-#EXTINF:-1 tvg-id="tvc.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр (2)
+#EXTINF:-1 tvg-id="tvc.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр 
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvc.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр (3)
+#EXTINF:-1 tvg-id="tvc.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр
 https://stream8.cinerama.uz/1025/index.m3u8
 
-#EXTINF:-1 tvg-id="spas.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас (2)
+#EXTINF:-1 tvg-id="spas.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас
 https://bonusspas.mediacdn.ru/cdn/spas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sts.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС (2)
+#EXTINF:-1 tvg-id="sts.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС 
 http://stream.mcquack.net/138/index.m3u8
 
-#EXTINF:-1 tvg-id="domashniy.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (2)
+#EXTINF:-1 tvg-id="domashniy.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний 
 http://stream.mcquack.net/227/index.m3u8
 
-#EXTINF:-1 tvg-id="tv3.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3 (2)
+#EXTINF:-1 tvg-id="tv3.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3 
 http://stream.mcquack.net/136/index.m3u8
 
-#EXTINF:-1 tvg-id="pyatnitsa.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница (2)
+#EXTINF:-1 tvg-id="pyatnitsa.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница 
 http://stream.mcquack.net/181/index.m3u8
 
 #EXTINF:-1 tvg-id="zvezda.ru" group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда (2)
